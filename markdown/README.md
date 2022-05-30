@@ -15,8 +15,8 @@ I am currently pursuing BTECH in **MnC** from **IIT GOA** .
 | Year of graduation |           Degree            |                Institution                |
 | :----------------: | :-------------------------: | :---------------------------------------: |
 |        2024        |           B.Tech.           |    Indian Institute of Technology, Goa    |
-|        2020        | 12th Standard or equivalent | Mansarovar Academy VIDISHA |
-|        2018        | 10th Standard or equivalent | VSSS VIDISHA |
+|        2021        | 12th Standard or equivalent | Mansarovar Academy VIDISHA |
+|        2019        | 10th Standard or equivalent | VSSS VIDISHA |
 
 * * *
 
